@@ -1,5 +1,5 @@
 # Statistical Analysis on Cancer Patients Data in Python
-Read the artcle on [medium.com](https://medium.com/@bmangwale/statistical-analysis-on-cancer-patients-data-in-python-b0c8cc8031ef)
+Read the article on [medium.com](https://medium.com/@bmangwale/statistical-analysis-on-cancer-patients-data-in-python-b0c8cc8031ef)
 
 ## Introduction
 This repository presents a comprehensive statistical analysis of cancer patients' data, focusing on lung cancer. 
